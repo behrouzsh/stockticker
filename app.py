@@ -152,4 +152,4 @@ if __name__ == '__main__':
     # print(msft)
     # print(msft.info)
     # print(msft.history(period="max"))
-    app.run_server(debug=True)
+    app.run_server(debug=True,port=5000)
